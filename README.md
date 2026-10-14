@@ -1,8 +1,11 @@
-# OpenClaw Researcher Workspace v0.1
+# OpenClaw Researcher Workspace v0.2 candidate
 
 A dedicated workspace for your existing researcher agent, with financial-analyst research standards and concise executive briefings by default. Market, geography, entities and monitoring scope come from each task or cron. Detailed reports are available when requested.
 
 This is an instruction/workflow package, not a new model or autonomous data service. It does not include proprietary data subscriptions, deterministic storage/locking, or an automatic deployment process.
+
+## Candidate status
+This revision has not passed actual-agent acceptance. Read [v0.2 retest handoff](docs/v0.2-retest-handoff.md) before any workspace switch. Headless evaluation is ineligible for this OAuth setup. Validate interruption recovery first and restore the original workspace even after a passing retest.
 
 ## What is included
 - [AGENTS.md](AGENTS.md): research operating contract.
@@ -24,7 +27,7 @@ git init -b main
 git add AGENTS.md SOUL.md TOOLS.md README.md .gitignore references tests docs
 git status --short
 git diff --cached --stat
-git commit -m "Add researcher workspace v0.1"
+git commit -m "Add researcher workspace v0.2"
 git remote add origin https://github.com/YOUR_USERNAME/openclaw-researcher.git
 git push -u origin main
 ```
