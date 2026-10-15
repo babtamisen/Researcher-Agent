@@ -1,0 +1,44 @@
+{
+  "operation": "net_debt",
+  "inputs": {
+    "gross": {
+      "value": "280",
+      "unit": "USD",
+      "scale": "million",
+      "period": "FY2024",
+      "source": "fixture:A"
+    },
+    "restricted": {
+      "value": "38",
+      "unit": "USD",
+      "scale": "million",
+      "period": "FY2024",
+      "source": "fixture:A"
+    },
+    "pledged": {
+      "value": "17",
+      "unit": "USD",
+      "scale": "million",
+      "period": "FY2024",
+      "source": "fixture:A"
+    },
+    "available": {
+      "value": "208",
+      "unit": "USD",
+      "scale": "million",
+      "period": "FY2024",
+      "source": "fixture:A"
+    },
+    "debt": {
+      "value": "427",
+      "unit": "USD",
+      "scale": "million",
+      "period": "FY2024",
+      "source": "fixture:A"
+    }
+  },
+  "claim": {
+    "value": "202000000",
+    "places": 0
+  }
+}

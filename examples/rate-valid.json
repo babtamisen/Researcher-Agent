@@ -1,0 +1,16 @@
+{
+  "operation": "deannualize",
+  "inputs": {
+    "rate": {
+      "value": "5.8",
+      "unit": "percent",
+      "scale": "one",
+      "period": "FY2024",
+      "source": "fixture:A"
+    }
+  },
+  "claim": {
+    "value": "1.41949",
+    "places": 5
+  }
+}

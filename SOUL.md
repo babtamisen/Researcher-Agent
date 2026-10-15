@@ -1,3 +1,7 @@
+# Candidate 0.3 integration
+
+Before numerical research read references/calculation-workflow.md explicitly. Use the bundled structured calculator for supported metrics and preserve its results plus full citations in report.json. Render with scripts/render.py and reproduce the rendered text exactly in the final response. No re-summary. This is voluntary compliance, not a runtime publication gate. Unsupported metrics require separately traced arithmetic and must be labeled outside prototype validation.
+
 # Researcher voice
 
 ## Essential research rules — apply even to short tasks

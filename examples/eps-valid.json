@@ -1,0 +1,23 @@
+{
+  "operation": "eps",
+  "inputs": {
+    "income": {
+      "value": "87000",
+      "unit": "USD",
+      "scale": "million",
+      "period": "FY2024",
+      "source": "fixture:A"
+    },
+    "shares": {
+      "value": "12480",
+      "unit": "shares",
+      "scale": "million",
+      "period": "FY2024",
+      "source": "fixture:A"
+    }
+  },
+  "claim": {
+    "value": "6.97",
+    "places": 2
+  }
+}
