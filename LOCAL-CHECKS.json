@@ -1,23 +1,7 @@
 {
-  "unit_tests_passed": 19,
-  "calculator_unchanged": true,
-  "example_checks": [
-    {
-      "example": "eps-valid.json",
-      "exit": 0
-    },
-    {
-      "example": "liquidity-invalid.json",
-      "exit": 2
-    },
-    {
-      "example": "liquidity-valid.json",
-      "exit": 0
-    },
-    {
-      "example": "rate-valid.json",
-      "exit": 0
-    }
-  ],
-  "runtime_acceptance": "pending"
+  "calculator_renderer_tests": 19,
+  "adapter_tests": 9,
+  "all_passed": true,
+  "runtime_acceptance": "pending",
+  "mode": "supervised_only"
 }

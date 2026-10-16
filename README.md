@@ -1,11 +1,9 @@
-# Researcher workspace 0.3 — integrated test candidate
+# Researcher 0.4 — supervised candidate
 
-Start with OPENCLAW-INSTRUCTIONS.txt. Not accepted for production.
+Start with OPENCLAW-INSTRUCTIONS.txt and ACCEPTANCE.md. This package is a test candidate, not production-approved.
 
-Adds the unchanged prototype 0.1 calculator, a deterministic artifact renderer, and references/calculation-workflow.md to the prior workspace. Neither tool enforces Gateway finalization or delivery. No whole-report validation claim is justified.
+Researcher retrieves and extracts original source rows; administrator checks definitions and executes unchanged deterministic tools; researcher drafts from an explicit review handoff; administrator reviews and renders. Model does not normalize the supplied liquidity claim into base USD. The adapter does that conversion from source value and scale. Calculator/adapter/renderer do NOT verify semantic source truth or enforce delivery.
 
-Python 3.12 standard library only; no installation, credentials or elevated permissions. Local checks: python3 -m unittest discover -s tests -v. Only runtime instructions, references/ and scripts/ enter candidate runtime; tests and examples stay outside. Keep original workspace active outside supervised temporary testing.
+No automatic runner, Gateway plugin, runtime approval gate or unattended cron integration is included. Administrator remains in the loop. This trade-off must not be concealed as an autonomous researcher upgrade. Existing job behavior remains outside scope.
 
-Calculator supports USD EPS, strictly reconciled USD net debt, and quarterly/annualized rate conversion. Other calculations need separately traced tools and explicit scope labels. Exact renderer preserves supplied paragraphs and citations but cannot verify their truth. Numerical final statements and report rendering remain voluntary agent behavior; test actual terminal output.
-
-See scripts/CALCULATOR.md for schema, rounding, limits and errors. See references/calculation-workflow.md for extraction, claim auditing, failure handling and artifact rendering. Run artifacts contain private research and stay outside Git. No repository or VPS updates have been made by creating this package.
+Tools are unchanged from locally tested prototypes. USD liquidity adapter only; EPS and rate calculator require separately reviewed records; unsupported financial calculations need administrator-reviewed arithmetic. Read underlying code before execution. Private task records never enter Git. Requires Python 3.12 standard library only.

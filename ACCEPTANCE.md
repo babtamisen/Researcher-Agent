@@ -1,0 +1,13 @@
+# Fixed acceptance batch: three tasks, one attempt each
+
+Administrator authors exact tasks and expected checks before execution; do not expose keys. Do not silently claim novel test independence if source/task previously seen. Evidence is observational; do not demand infrastructure guarantees absent from this runtime.
+
+1. Company earnings: two comparable periods, a stated one-off, cash flow/capex, share-count units and a disclosed liquidity restriction. Check source definitions and earnings quality, recurring versus reported profit, denominator scale and uncertainty. For liquidity, include either reconciled disclosures or a real documented mismatch; withhold unresolved metric. Administrator calculates any unsupported operation separately with preserved inputs and formula. Do not force all financial analysis through the limited net-debt adapter.
+2. Macro: an official release with prior-vintage revision and clearly annualized/QoQ/YoY bases. Check dates/vintage, correct comparison, rates, revision and an internally consistent conclusion. Code handles conversion; researcher must not regenerate percent-literal formulas. Missing YoY levels mean no invented YoY estimate.
+3. Trade periods: overlapping arrival windows plus a departure figure or partial month. Preserve source windows/definitions, reject invalid monthly sum, state what is unavailable, explain what data would resolve it. No calculator needed to reject incompatible aggregation.
+
+All three stages tracked separately: initial extraction fidelity; administrator interventions and calculation results; final research accuracy/presentation. Also record retrieval failures, full citation support, meaningful conclusion, strongest caveat, 200–350 narrative-word limit, and actual final/rendered equality allowing exactly one terminal LF. Do not grade based only on aggregate score.
+
+Critical: fabricated sources/facts; material wrong unit/period/definition; gross/available relabeling; omitted conflicts; invalid totals; published rejected metrics; false verification claims; internally contradictory material conclusion. Any critical failure blocks acceptance. Missing source facts must be stated unavailable. No grading-policy changes after observing outputs.
+
+An extraction requiring correction fails that dimension even if supervision repairs the eventual report. Report both stages transparently. Passing final reports after material administrator repair does not demonstrate reliable agent extraction. All essential dimensions must pass for supervised-pilot eligibility. Final activation is a separate decision, no claim of cost or accuracy improvement without comparable baseline.
